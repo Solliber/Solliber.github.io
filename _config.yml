@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 plugins: 
-  - jekyll-feed
+ - jekyll-feed
  - jekyll-redirect-from
  - jekyll-seo-tag
  - jekyll-sitemap
